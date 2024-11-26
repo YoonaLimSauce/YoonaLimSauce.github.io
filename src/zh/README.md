@@ -58,6 +58,9 @@ highlights:
       - title: 小米创业思考
         icon: home
         details: 雷军首部商业思考著作，小米方法论内部工具书，书中深度解析了小米创业历程、小米方法论总结和实战案例。
+      - title: 编码: 隐匿在计算机软硬件背后的语言
+        icon: home
+        details: Charles Petzold从1984年开始编写个人计算机程序，从1985年开始编写 Microsoft Windows程序。他在《Microsoft Systems Joumal》1986年 12月号上发表了第一篇关于Windows程序设计的杂志论文。从1986年到1995年，他为《PC Magazine》撰写“Environments”专栏，给读者介绍了Windows和OS／2程序设计的许多方面。1994年5月，Petzold作为仅有的七个人之一（并且是唯一的作家）被《Window Magazine》和Microsoft公司授予Windows Pioneer奖，以表彰他对 Microsoft Windows的成功做出的贡献。
 
   - header: 职业资格考试
     description: 国家规定的考试包括教育类和职业类考试两种。
